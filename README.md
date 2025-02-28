@@ -1,2 +1,3 @@
 # myfirstrepo
-author Sukhpreet Singh
+author Sukhpreet Singh <br>
+this is git hub apna college
